@@ -1,2 +1,2 @@
 # Pattern-Recognition
-Popularly used pattern recognition algorithm: Bayesian Decision, BPNN, Kmeans, ISODATA, LDA, PCA, KPCA
+Popularly used pattern recognition algorithms: Bayesian Decision, BPNN, Kmeans, ISODATA, LDA, PCA, KPCA
